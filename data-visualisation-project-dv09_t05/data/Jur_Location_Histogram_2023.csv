@@ -1,0 +1,9 @@
+"JURISDICTION","Sum(Total violations)","Total licences","Major Cities of Australia","Inner Regional Australia","Outer Regional Australia","Remote Australia","Unknown","Very Remote Australia"
+"ACT",288,338043,288,0,0,0,0,0
+"NSW",216229,5981229,11180,1823,301,19,202901,5
+"NT",224,166271,0,0,0,0,224,0
+"QLD",80292,4001264,0,0,0,0,80292,0
+"SA",5769,1340060,0,0,0,0,5769,0
+"TAS",2465,419373,0,0,0,0,2465,0
+"VIC",49546,5097911,42295,5598,479,0,1174,0
+"WA",3756,1987778,0,0,0,0,3756,0
